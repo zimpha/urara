@@ -1,0 +1,3 @@
+[submodule "include/urara/format"]
+	path = include/urara/format
+	url = https://github.com/fmtlib/fmt.git
